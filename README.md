@@ -19,6 +19,7 @@ Apesar das limitações do meu atual cargo, sempre tive fascínio pela área de 
 </ul>
 
 <h1>📈 GitHub Stats</h1>
+
 ![Marcela G. C.'s github stats](https://github-readme-stats.vercel.app/api?username=marcelagomescorrea&hide=contribs,prs)
 
 
