@@ -18,6 +18,7 @@ Apesar das limitações do meu atual cargo, sempre tive fascínio pela área de 
   <li><a href='https://marcelagomescorrea.medium.com/imers%C3%A3o-dados-alura-o-dia-em-que-quase-ganhei-um-ps5-6260e559cdb' target='_blank'>Imersão Dados Alura: o dia em que quase ganhei um PS5</a></li>
 </ul>
 
+<h1>📈 GitHub Stats</h1>
 ![Marcela G. C.'s github stats](https://github-readme-stats.vercel.app/api?username=marcelagomescorrea&hide=contribs,prs)
 
 
