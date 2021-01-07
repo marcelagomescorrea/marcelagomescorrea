@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![Marcela G. C.'s github stats](https://github-readme-stats.vercel.app/api?username=marcelagomescorrea&hide=contribs,prs)
+
+
+![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=3293F5)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=3293F5)
+![](https://img.shields.io/badge/Editor-Google_Colab-informational?style=plastic&logo=google-colab&logoColor=white&color=3293F5)
+
+
+📰 Blog Posts
 <!--
 **marcelagomescorrea/marcelagomescorrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
