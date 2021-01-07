@@ -1,17 +1,14 @@
 <h1>🌈 Olá!</h1>
 
-Olá, eu me chamo Marcela Gomes Corrêa e atualmente sou servidora pública do executivo federal. Sou do Brasil, moro em Brasília e trabalho no Ministério da Economia. Vocês podem me encontrar nas seguintes redes sociais:
+Olá, meu nome é Marcela Gomes Corrêa e atualmente sou servidora pública do executivo federal. Moro em Brasília e trabalho no Ministério da Economia. Vocês podem me encontrar nas seguintes redes sociais:
 
 ![](https://img.shields.io/badge/-marcelagomescorrea-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelagomescorrea/)
 ![](https://img.shields.io/badge/-marcelagomescorrea-black?style=plastic&logo=medium&logoColor=white&link=https://marcelagomescorrea.medium.com/)
 ![](https://img.shields.io/github/followers/marcelagc?label=follow&style=social)
 
-Sou formada em Ciência da Computação pela Universidade de Brasília e tenho especialização em Sistemas de Informação. Já fui programadora de sistemas web para eleições online, mas atualmente trabalho com normativos relacionados à governança de dados. Minha experiência na área de dados começou para valer quando entrei em um projeto de Big Data dentro do governo.
+Sou formada em Ciência da Computação pela Universidade de Brasília (UnB) e tenho especialização em Sistemas de Informação. Já fui programadora de sistemas web para eleições on line, mas atualmente trabalho com normativos relacionados à governança de dados. Minha experiência na área de dados começou pra valer quando entrei em um projeto de Big Data dentro do governo.
 
-Apesar das limitações do meu atual cargo, sempre tive fascínio pela área de Data Science e após participar da Imersão Dados da Alura foi amor à primeira vista. Hoje, sou uma eterna estudante da área e escrevo algumas análises e alguns artigos aqui e acolá.
-
-
-
+Apesar das limitações do meu atual cargo, sempre tive fascínio pela área de Data Science e, após participar da Imersão Dados da Alura, foi amor à primeira vista. Hoje, sou uma eterna estudante da área e escrevo algumas análises aqui e alguns artigos acolá.
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=3293F5)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=3293F5)
