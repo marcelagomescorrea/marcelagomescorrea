@@ -2,7 +2,7 @@
 
 <h1>🌈 Olá!</h1>
 
-Olá, meu nome é Marcela Gomes Corrêa e atualmente sou servidora pública do executivo federal. Moro em Brasília e trabalho no Ministério da Economia. Vocês podem me encontrar nas seguintes redes sociais:
+Olá, meu nome é Marcela Gomes Corrêa e atualmente sou servidora pública do executivo federal. Moro em Brasília e trabalho no Ministério da Infraestrutura. Vocês podem me encontrar nas seguintes redes sociais:
 
 ![](https://img.shields.io/badge/-marcelagomescorrea-blue?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelagomescorrea/)
 ![](https://img.shields.io/badge/-marcelagomescorrea-black?style=plastic&logo=medium&logoColor=white&link=https://marcelagomescorrea.medium.com/)
